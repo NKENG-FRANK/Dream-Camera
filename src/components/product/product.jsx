@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import "./product.css";
 
 const Products = ({ cameras, onProductClick, onAddToCart }) => {
   const [filteredCameras, setFilteredCameras] = useState(cameras);

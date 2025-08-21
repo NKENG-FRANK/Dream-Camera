@@ -17,7 +17,7 @@ const camerasData = [
     price: 3899,
     originalPrice: 4299,
     image:
-      "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/736x/04/de/a7/04dea73d283ea00c886befc309c3f2d1.jpg",
     rating: 4.8,
     reviews: 124,
     specs: {
@@ -43,7 +43,7 @@ const camerasData = [
     price: 2498,
     originalPrice: 2798,
     image:
-      "https://images.unsplash.com/photo-1617005082133-548c4dd27d35?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/736x/63/5e/f7/635ef7fd96950178d7a1470fd75e3a9e.jpg",
     rating: 4.7,
     reviews: 89,
     specs: {
@@ -69,7 +69,7 @@ const camerasData = [
     price: 5499,
     originalPrice: 5999,
     image:
-      "https://images.unsplash.com/photo-1606983326832-2f56e71c7ac3?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/736x/57/d9/8f/57d98f79053102bfc823440b9c7e6aa5.jpg",
     rating: 4.9,
     reviews: 67,
     specs: {
@@ -95,7 +95,7 @@ const camerasData = [
     price: 1699,
     originalPrice: 1899,
     image:
-      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/736x/78/38/ac/7838ac5477ddb93d0929ae96e4771e58.jpg",
     rating: 4.6,
     reviews: 156,
     specs: {
@@ -120,7 +120,7 @@ const camerasData = [
     price: 2399,
     originalPrice: 2699,
     image:
-      "https://images.unsplash.com/photo-1617005082133-548c4dd27d35?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/1200x/ce/f4/34/cef43418f820b24795265231927e1375.jpg",
     rating: 4.7,
     reviews: 203,
     specs: {

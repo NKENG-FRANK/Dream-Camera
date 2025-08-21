@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "./individual.css";
 
 const IndividualProduct = ({ camera, onBack, onAddToCart }) => {
   const [quantity, setQuantity] = useState(1);
