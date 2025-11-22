@@ -145,7 +145,7 @@ const camerasData = [
     price: 3898,
     originalPrice: 4298,
     image:
-      "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/736x/8e/6e/bd/8e6ebd431004064d070cc1e69bc4e592.jpg",
     rating: 4.8,
     reviews: 91,
     specs: {
@@ -172,7 +172,7 @@ const camerasData = [
     price: 2299,
     originalPrice: 2499,
     image:
-      "https://images.unsplash.com/photo-1585652774070-1c3d0d5b3f92?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/736x/40/ae/1f/40ae1f77894a8f31dd41ff92f472dd06.jpg",
     rating: 4.8,
     reviews: 145,
     specs: {
@@ -193,7 +193,7 @@ const camerasData = [
     price: 2599,
     originalPrice: 2799,
     image:
-      "https://images.unsplash.com/photo-1585695705613-4d03aef33b82?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/736x/9d/cd/a9/9dcda90a68c8101b92518766d16a100d.jpg",
     rating: 4.9,
     reviews: 102,
     specs: {
@@ -213,7 +213,7 @@ const camerasData = [
     price: 1999,
     originalPrice: 2199,
     image:
-      "https://images.unsplash.com/photo-1585652774070-1c3d0d5b3f92?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/736x/98/37/9e/98379e207e2717523cd99a88abb1e152.jpg",
     rating: 4.9,
     reviews: 76,
     specs: {
@@ -235,7 +235,7 @@ const camerasData = [
     price: 399,
     originalPrice: 449,
     image:
-      "https://images.unsplash.com/photo-1590490360180-817080a0bcde?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/736x/e8/72/91/e872912bc466bb29252999bd7ab9168d.jpg",
     rating: 4.6,
     reviews: 88,
     specs: { height: "150cm", loadCapacity: "10kg", material: "Aluminum" },
@@ -250,7 +250,7 @@ const camerasData = [
     price: 599,
     originalPrice: 649,
     image:
-      "https://images.unsplash.com/photo-1603076785400-85a6f3df4eb7?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/1200x/56/1d/3c/561d3c2f908e403b060c4db3ba3b3394.jpg",
     rating: 4.8,
     reviews: 75,
     specs: { height: "152cm", loadCapacity: "9kg", material: "Carbon Fiber" },
@@ -267,7 +267,7 @@ const camerasData = [
     price: 749,
     originalPrice: 799,
     image:
-      "https://images.unsplash.com/photo-1593642634367-d91a135587b5?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/736x/1f/26/08/1f260824b56b1538015801b3b8529b60.jpg",
     rating: 4.7,
     reviews: 92,
     specs: {
@@ -286,7 +286,7 @@ const camerasData = [
     price: 599,
     originalPrice: 649,
     image:
-      "https://images.unsplash.com/photo-1593642532842-98d0fd5ebc1a?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/736x/a9/1f/42/a91f42bf6f0e430fd0594eed47361f62.jpg",
     rating: 4.6,
     reviews: 68,
     specs: {
@@ -307,7 +307,7 @@ const camerasData = [
     price: 49,
     originalPrice: 59,
     image:
-      "https://images.unsplash.com/photo-1580910051073-48d91f4f5f88?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/1200x/0d/84/8a/0d848ae934d672bacc2430eacafa66d6.jpg",
     rating: 4.9,
     reviews: 210,
     specs: { capacity: "128GB", speed: "170MB/s", type: "SDXC" },
@@ -322,7 +322,7 @@ const camerasData = [
     price: 149,
     originalPrice: 169,
     image:
-      "https://images.unsplash.com/photo-1590502593749-1e0b1eeef77b?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/1200x/35/13/16/351316fcfb4ea6fea9137e47f533b5cb.jpg",
     rating: 4.8,
     reviews: 95,
     specs: { capacity: "64GB", speed: "3000MB/s", type: "CFexpress" },
@@ -339,7 +339,7 @@ const camerasData = [
     price: 134,
     originalPrice: 149,
     image:
-      "https://images.unsplash.com/photo-1605902711622-cfb43c443a17?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/1200x/38/67/02/3867025ffe94b03b2fbbe99a4e40e36a.jpg",
     rating: 4.5,
     reviews: 78,
     specs: { power: "60W", colorTemp: "5600K", type: "LED" },
@@ -358,7 +358,7 @@ const camerasData = [
     price: 89,
     originalPrice: 99,
     image:
-      "https://images.unsplash.com/photo-1593642634366-d91a135587b5?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/736x/17/bb/d7/17bbd7cb34c20af66c0dc41163cb5f51.jpg",
     rating: 4.6,
     reviews: 120,
     specs: { diameter: "18 inches", colorTemp: "3200-5600K", type: "LED Ring" },
@@ -375,7 +375,7 @@ const camerasData = [
     price: 269,
     originalPrice: 299,
     image:
-      "https://images.unsplash.com/photo-1593642532744-7b9b52b7c9df?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/1200x/37/40/97/3740978fa67df5d9a6b1f9e1c6a456bc.jpg",
     rating: 4.8,
     reviews: 87,
     specs: { capacity: "20L", material: "Weatherproof Nylon" },
@@ -390,7 +390,7 @@ const camerasData = [
     price: 249,
     originalPrice: 279,
     image:
-      "https://images.unsplash.com/photo-1580910051073-48d91f4f5f88?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/736x/71/58/c2/7158c25e42c56d73efd5e934de8f8e2b.jpg",
     rating: 4.7,
     reviews: 65,
     specs: { capacity: "25L", material: "Nylon", protection: "All Weather" },
@@ -411,7 +411,7 @@ const camerasData = [
     price: 79,
     originalPrice: 89,
     image:
-      "https://images.unsplash.com/photo-1590502593749-1e0b1eeef77b?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/1200x/8e/91/c6/8e91c6ae0d7eff28ca0f73b90c059f11.jpg",
     rating: 4.7,
     reviews: 54,
     specs: { type: "ND", density: "10 Stops", size: "77mm" },
@@ -426,7 +426,7 @@ const camerasData = [
     price: 129,
     originalPrice: 149,
     image:
-      "https://images.unsplash.com/photo-1585652774070-1c3d0d5b3f92?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/736x/55/99/90/5599900d3cb902fcb2326c83eb5a40ab.jpg",
     rating: 4.8,
     reviews: 61,
     specs: { type: "CPL", size: "82mm" },
@@ -443,7 +443,7 @@ const camerasData = [
     price: 499,
     originalPrice: 549,
     image:
-      "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/736x/09/f6/93/09f693726b4c217154924b760d1764e9.jpg",
     rating: 4.9,
     reviews: 88,
     specs: { guideNumber: 60, wireless: "Yes", tiltSwivel: "Yes" },
@@ -458,7 +458,7 @@ const camerasData = [
     price: 259,
     originalPrice: 289,
     image:
-      "https://images.unsplash.com/photo-1593642532842-98d0fd5ebc1a?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/1200x/97/09/d3/9709d3beed6b1bae3a735fb85a62c149.jpg",
     rating: 4.8,
     reviews: 77,
     specs: { guideNumber: 76, wireless: "Yes", tiltSwivel: "Yes" },
@@ -475,106 +475,12 @@ const camerasData = [
     price: 399,
     originalPrice: 449,
     image:
-      "https://images.unsplash.com/photo-1593642634367-d91a135587b5?w=400&h=300&fit=crop",
+      "https://i.pinimg.com/736x/6d/e8/5a/6de85aead04e5a5d73e22adc50efebc5.jpg",
     rating: 4.7,
     reviews: 65,
     specs: { size: '5"', resolution: "1920x1080", type: "HDR" },
     description: "Compact HDR monitor for video recording.",
     features: ["HDR Support", "Touchscreen", "AtomOS"],
-  },
-  {
-    id: 25,
-    name: 'SmallHD Focus 7"',
-    brand: "SmallHD",
-    category: "External Monitor",
-    price: 499,
-    originalPrice: 549,
-    image:
-      "https://images.unsplash.com/photo-1603076785400-85a6f3df4eb7?w=400&h=300&fit=crop",
-    rating: 4.6,
-    reviews: 58,
-    specs: { size: '7"', resolution: "1920x1200", type: "LCD" },
-    description: "7-inch monitor for field monitoring and focus assist.",
-    features: ["High Brightness", "Touchscreen", "Compact"],
-  },
-
-  // Drones
-  {
-    id: 26,
-    name: "DJI Air 3",
-    brand: "DJI",
-    category: "Drone",
-    price: 999,
-    originalPrice: 1099,
-    image:
-      "https://images.unsplash.com/photo-1593642532744-7b9b52b7c9df?w=400&h=300&fit=crop",
-    rating: 4.8,
-    reviews: 150,
-    specs: { flightTime: "46min", camera: "4K", range: "10km" },
-    description: "Compact drone with high-quality camera.",
-    features: ["4K Video", "Obstacle Avoidance", "Long Flight Time"],
-  },
-  {
-    id: 27,
-    name: "DJI Mavic 3",
-    brand: "DJI",
-    category: "Drone",
-    price: 2199,
-    originalPrice: 2399,
-    image:
-      "https://images.unsplash.com/photo-1580910051073-48d91f4f5f88?w=400&h=300&fit=crop",
-    rating: 4.9,
-    reviews: 102,
-    specs: { flightTime: "46min", camera: "5.1K", range: "15km" },
-    description: "Professional drone for cinematic shots.",
-    features: ["5.1K Camera", "Omnidirectional Sensors", "Long Flight Time"],
-  },
-
-  // Straps & Accessories
-  {
-    id: 28,
-    name: "Peak Design Slide Camera Strap",
-    brand: "Peak Design",
-    category: "Accessory",
-    price: 59,
-    originalPrice: 69,
-    image:
-      "https://images.unsplash.com/photo-1605902711622-cfb43c443a17?w=400&h=300&fit=crop",
-    rating: 4.8,
-    reviews: 54,
-    specs: { type: "Strap", material: "Nylon" },
-    description: "Comfortable and versatile camera strap.",
-    features: ["Quick Adjust", "Durable", "Comfortable"],
-  },
-  {
-    id: 29,
-    name: "Giottos Rocket Blower",
-    brand: "Giottos",
-    category: "Accessory",
-    price: 14,
-    originalPrice: 19,
-    image:
-      "https://images.unsplash.com/photo-1593642634366-d91a135587b5?w=400&h=300&fit=crop",
-    rating: 4.7,
-    reviews: 60,
-    specs: { type: "Cleaning Tool" },
-    description: "Air blower to remove dust from lenses and sensors.",
-    features: ["Gentle Air Flow", "Portable", "Safe on Electronics"],
-  },
-  {
-    id: 30,
-    name: "Lenspen NLP-1",
-    brand: "Lenspen",
-    category: "Accessory",
-    price: 12,
-    originalPrice: 15,
-    image:
-      "https://images.unsplash.com/photo-1590502593749-1e0b1eeef77b?w=400&h=300&fit=crop",
-    rating: 4.8,
-    reviews: 70,
-    specs: { type: "Cleaning Tool" },
-    description: "Compact pen for cleaning camera lenses.",
-    features: ["Carbon Cleaning Tip", "Portable", "Safe for Coatings"],
   },
 ];
 
