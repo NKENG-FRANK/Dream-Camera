@@ -87,6 +87,79 @@ const camerasData = [
       "Weather Sealed Body",
     ],
   },
+
+  {
+  id: 25,
+  name: "Canon PowerShot G7X Mark I",
+  brand: "Canon",
+  category: "Compact Camera",
+  price: 449,
+  originalPrice: 599,
+  image: "https://i.pinimg.com/736x/47/2f/e0/472fe050f0b3d881f3b97596ff9e9281.jpg",
+  rating: 4.6,
+  reviews: 342,
+  specs: {
+    resolution: "20.2MP",
+    sensor: "1-inch CMOS",
+    video: "1080p/60fps",
+    processor: "DIGIC 6"
+  },
+  description: "Compact vlogging camera with flip screen and fast lens, perfect for content creators.",
+  features: [
+    "24-100mm f/1.8-2.8 Lens",
+    "180° Flip Screen",
+    "Built-in Wi-Fi",
+    "31-Point AF System"
+  ]
+},
+{
+  id: 26,
+  name: "Canon PowerShot G7X Mark II",
+  brand: "Canon",
+  category: "Compact Camera",
+  price: 599,
+  originalPrice: 699,
+  image: "https://i.pinimg.com/736x/ba/6c/6c/ba6c6c7d360e41f0891b8118e53da362.jpg",
+  rating: 4.8,
+  reviews: 1373,
+  specs: {
+    resolution: "20.1MP",
+    sensor: "1-inch CMOS",
+    video: "1080p/60fps",
+    processor: "DIGIC 7"
+  },
+  description: "The viral influencer camera with exceptional image quality and compact design for vlogging.",
+  features: [
+    "24-100mm f/1.8-2.8 Lens",
+    "Tilting Touchscreen",
+    "8fps Continuous Shooting",
+    "Enhanced Low-Light Performance"
+  ]
+},
+{
+  id: 27,
+  name: "Canon PowerShot G7X Mark III",
+  brand: "Canon",
+  category: "Compact Camera",
+  price: 749,
+  originalPrice: 849,
+  image: "https://i.pinimg.com/1200x/4d/d2/f1/4dd2f1d73360a80e5dc9854827de8cf4.jpg",
+  rating: 4.7,
+  reviews: 856,
+  specs: {
+    resolution: "20.1MP",
+    sensor: "1-inch Stacked CMOS",
+    video: "4K/30fps",
+    processor: "DIGIC 8"
+  },
+  description: "Advanced compact camera with 4K video, live streaming, and improved autofocus for creators.",
+  features: [
+    "4K Video Recording",
+    "20fps Burst Shooting",
+    "Live Streaming to YouTube",
+    "USB-C & Microphone Input"
+  ]
+},
   {
     id: 4,
     name: "Fujifilm X-T5",
